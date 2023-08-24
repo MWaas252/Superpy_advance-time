@@ -1,0 +1,5 @@
+id,product_name,buy_date,purchase_price,expiry_date
+1,Apples,15-8-2023,0.75,30-8-2023
+2,Oranges,14-8-2023,0.60,28-8-2023
+3,Strawberries,13-8-2023,1.50,25-8-2023
+4,Lemons,16-8-2023,0.40,31-8-2023
